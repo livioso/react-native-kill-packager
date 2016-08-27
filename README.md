@@ -1,6 +1,6 @@
-# react-native-kill-packager f
+# 💣 react-native-kill-packager
 
-💣 *Kill the React Native Packager running on port 8081.*
+*Kill the React Native Packager running on port 8081.*
 
 Simply run `react-native-kill-packager` when you encounter this:
 
