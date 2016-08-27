@@ -1,6 +1,6 @@
-# react-native-kill-packager
+# react-native-kill-packager f
 
-Kill -9 React Native Packager running on port 8081.
+💣 *Kill the React Native Packager running on port 8081.*
 
 Simply run `react-native-kill-packager` when you encounter this:
 
@@ -20,15 +20,14 @@ Simply run `react-native-kill-packager` when you encounter this:
 
 ```
 
-You can also add it as an npm script:
+You can add it as an npm script and run `npm run packager:kill` or `npm run packager:restart`:
 
 ```
 "scripts": {
   "packager:kill": "react-native-kill-packager",
+  "packager:restart": "react-native-kill-packager; npm start",
 };
 ```
-
-and run `npm run packager:kill`.
 
 [![dependency status](https://david-dm.org/livioso/react-native-kill-packager.svg)](https://david-dm.org/livioso/react-native-kill-packager)
 
@@ -38,7 +37,5 @@ and run `npm run packager:kill`.
 npm install --save-dev react-native-kill-packager
 ```
 
-## Usage
-
 ## Credits
-[Livio Bieri](https://github.com/livioso/)
+[Livio Bieri](https://github.com/livioso/) 🚀
