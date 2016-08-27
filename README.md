@@ -29,8 +29,6 @@ You can add it as an npm script and run `npm run packager:kill` or `npm run pack
 };
 ```
 
-[![dependency status](https://david-dm.org/livioso/react-native-kill-packager.svg)](https://david-dm.org/livioso/react-native-kill-packager)
-
 ## Installation
 
 ```
